@@ -7,5 +7,6 @@ public class B extends A{
     public void a(){
         System.out.println("b");
         System.out.println("111");
+        System.out.println("hot-fix");
     }
 }
